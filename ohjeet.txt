@@ -1,0 +1,1 @@
+Tämä style file on osm2pgsql dumpperia varten. Mukaan dumppaukseen on otettu mtb karttoja varten tarvittavia avaimia. Poisjätettävien listalta on myös poimittu mukaan mm. fixme, FIXME ja note kentät kartan listätietoja varten.
